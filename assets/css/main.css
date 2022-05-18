@@ -1,0 +1,31 @@
+.bg-wave {
+    background: transparent url(../img/wave.svg) no-repeat center center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 15rem;
+}
+
+.bg-diagonal {
+    background: transparent url(../img/diagonal.svg) no-repeat;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 40rem;
+}
+
+.bg-gradient {
+    background: linear-gradient(to right, #518FE8 0%, #5779EB 100%);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.bg-skillsets {
+    background: transparent url(../img/skillsets.svg) no-repeat center ;
+    background-size: 90%;
+    width: 100%;
+    height: 30rem;
+}
